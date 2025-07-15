@@ -16,7 +16,6 @@ A simple, clean Flask-based web app for tracking your daily tasks — built as p
 
 ## Installation
 
-```bash
 git clone https://github.com/neesan1/cloud-task-tracker
 cd cloud-task-tracker
 python -m venv venv
@@ -25,7 +24,3 @@ pip install -r requirements.txt
 python app.py
 Visit http://localhost:5000 in your browser.
 
-Author
-Nishan Kafle
-Cloud Computing & Cybersecurity Student
-https://www.linkedin.com/in/nishan-kafle-3b5782234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQWRtyEH4SCOdsKn3OulKbA%3D%3D
